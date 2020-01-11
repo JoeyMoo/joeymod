@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+	{ "item": "joeymod:joey_block" }
+	],
+	"result": {
+		"item": "joeymod:joey_ingot",
+		"count": 9
+	}
+}

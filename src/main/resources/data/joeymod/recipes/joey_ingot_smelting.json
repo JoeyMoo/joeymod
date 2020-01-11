@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "item": "joeymod:joey_ore" },
+	"result": "joeymod:joey_ingot",
+	"experience": 1,
+	"cookingtime": 50
+}

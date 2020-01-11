@@ -1,6 +1,6 @@
 package joey.joeymod;
 
-import joey.joeymod.init.BlockList;
+import joey.joeymod.init.ItemList;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 
@@ -14,6 +14,6 @@ public class JoeyItemGroup extends ItemGroup
 	@Override
 	public ItemStack createIcon()
 	{
-		return new ItemStack(BlockList.joey_ore);
+		return new ItemStack(ItemList.joey_ore);
 	}
 }

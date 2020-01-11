@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"III",
+		"III",
+		"III"
+	],
+	
+	"key":
+	{
+		"I": { "item": "joeymod:joey_ingot" }
+	},
+	
+	"result": {
+		"item": "joeymod:joey_block",
+		"count": 1
+	}
+}

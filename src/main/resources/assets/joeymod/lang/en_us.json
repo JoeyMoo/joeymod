@@ -1,3 +1,8 @@
 {
-	"block.joeymod.joey_ore":"Joey Ore"
+	"item.joeymod.joey_ingot": "Joey Ingot",
+
+	"block.joeymod.joey_ore": "Joey Ore",
+	"block.joeymod.joey_block":"Joey Block",
+	
+	"itemGroup.joey": "Joey"
 }
